@@ -8,7 +8,7 @@
         >
       </figure>
       <div class="card-body">
-        <h2 class="card-title">
+        <h2 class="card-title text-violet-700">
           Shoes!
         </h2>
         <p>If a dog chews shoes whose shoes does he choose?</p>
